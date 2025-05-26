@@ -1,0 +1,6 @@
+0 Stickerless - Složená kostka
+1 Stickerless - Skoro složená kostka
+2 Stickerless - Rozložená kostka
+3 Sticker - Složená kostka
+4 Sticker - Skoro složená kostka
+5 Sticker - Rozložená kostka

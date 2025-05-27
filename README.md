@@ -21,6 +21,11 @@ Obě metody následně porovnáme z hlediska složitosti, robustnosti a přesnos
 
 ---
 
+# Model #1 – použití nástroje Teachable Machine
+[Klikněte pro otevření modelu #1 v Google Colab](https://colab.research.google.com/github/MartinKilb/Rozpoznavani-Rubikovy-kostky/blob/bcbf52fa9b717f7abb8193236e0fcfebb8946cab/model_teachable_machine.ipynb)
+
+---
+
 # Model #2 – použití klasických metod počítačového vidění
 Rozhodli jsme se vytvořit dva modely pomocí klasických metod, každý trochu odlišný, pro různé účely. \
 První z nich operuje pouze s mřížkou, do které uživatel kostku umístí a před použitím zkalibruje. \

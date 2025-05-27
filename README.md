@@ -1,7 +1,7 @@
 # Rozpoznávání Rubikovy kostky
 tým: Martin Kilbergr, Michaela Skálová, vedení: Ing. Miroslav Jiřík, Ph. D. \
 předmět: KKY/PUIA4 \
-datum: 27. 5. 2025 \
+datum: 27. 5. 2025
 
 ---
 ---

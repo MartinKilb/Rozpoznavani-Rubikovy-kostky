@@ -37,7 +37,7 @@ Druhý z nich se pokouší o rozmazání pozadí a použití Houghovy transforma
 
 # Porovnání přístupů
 
-Klasický (ne-ML) přístup se ukázal jako spolehlivější díky možnosti kontrolovat jednotlivé kroky – zejména barevnou kalibraci. Ani konvoluční neuronová síť (Teachable machine) si nevedla špatně – s přesností kolem 90 % na dvou různých testovacích sadách. Pokud bychom projekt dělali znovu, smysluplné by bylo využít neuronku jen pro lokalizaci kostky v obraze, ale zbytek pipeline řešit klasicky – např. určení barev a reprezentaci stavu.
+Klasický (ne-ML) přístup se ukázal jako spolehlivější díky možnosti kontrolovat jednotlivé kroky, včetně barevné kalibrace. Ani konvoluční neuronová síť (Teachable machine) si nevedla špatně – s přesností kolem 90 % na dvou různých testovacích sadách. Pokud bychom projekt dělali znovu, smysluplné by bylo využít neuronku jen pro lokalizaci kostky v obraze, ale zbytek pipeline řešit klasicky – např. určení barev a reprezentaci stavu.
 
 ---
 

@@ -22,7 +22,7 @@ Obě metody následně porovnáme z hlediska složitosti, robustnosti a přesnos
 ---
 
 # Model #1 – použití nástroje Teachable Machine
-[Klikněte pro otevření modelu #1 v Google Colab](https://colab.research.google.com/github/MartinKilb/Rozpoznavani-Rubikovy-kostky/blob/bcbf52fa9b717f7abb8193236e0fcfebb8946cab/model_teachable_machine.ipynb)
+[Klikněte pro otevření modelu #1 v Google Colab](https://colab.research.google.com/github/MartinKilb/Rozpoznavani-Rubikovy-kostky/blob/82dcc2b22fcd4eeaba897795ab2b28f75da21390/model_teachable_machine.ipynb)
 
 ---
 
